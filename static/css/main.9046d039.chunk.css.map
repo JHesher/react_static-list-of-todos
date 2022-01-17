@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEE,WACE,eAAgB,CAChB,YAAa,CACb,iBAAA,CAAA,YAAa","file":"main.9046d039.chunk.css","sourcesContent":[".app {\n\n  &__list {\n    list-style: none;\n    display: grid;\n    row-gap: 15px;\n  }\n}\n"]}
